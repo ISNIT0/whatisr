@@ -139,7 +139,33 @@
 </style>
 
 <svelte:head>
-  <title>What is R?</title>
+  <!-- Primary Meta Tags -->
+  <title>The R value in the UK is...</title>
+  <meta name="title" content="The R value in the UK is..." />
+  <meta
+    name="description"
+    content="What is R? When will lockdown end? Get frequent updates about the
+    COVID pandemic" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://whatisr.uk" />
+  <meta property="og:title" content="The R value in the UK is..." />
+  <meta
+    property="og:description"
+    content="What is R? When will lockdown end? Get frequent updates about the
+    COVID pandemic" />
+  <meta property="og:image" content="/banner.png" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://whatisr.uk" />
+  <meta property="twitter:title" content="The R value in the UK is..." />
+  <meta
+    property="twitter:description"
+    content="What is R? When will lockdown end? Get frequent updates about the
+    COVID pandemic" />
+  <meta property="twitter:image" content="/banner.png" />
 </svelte:head>
 <div class="page" id="home">
   <div />

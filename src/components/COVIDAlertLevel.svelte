@@ -82,12 +82,12 @@
     <ul>
       <li>Stay at home as much as possible</li>
       <li>Work from home if you can</li>
-      <li>Go to work if you cannot work from home.</li>
+      <li>Go to work if you cannot work from home</li>
       <li>Limit contact with other people</li>
       <li>Keep your distance if you go out (2 metres apart where possible)</li>
       <li>Wash your hands regularly</li>
-      <li>Self-isolate if you or anyone in your household has symptoms.</li>
-      <li>Keep following these rules even if you see others breaking them.</li>
+      <li>Self-isolate if you or anyone in your household has symptoms</li>
+      <li>Keep following these rules even if you see others breaking them</li>
     </ul>
   </div>
 </section>
