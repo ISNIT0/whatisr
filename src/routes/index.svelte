@@ -139,6 +139,12 @@
 </style>
 
 <svelte:head>
+  <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js">
+
+  </script>
+  <noscript>
+    <img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" />
+  </noscript>
   <!-- Primary Meta Tags -->
   <title>The R value in the UK is...</title>
   <meta name="title" content="The R value in the UK is..." />
@@ -155,7 +161,7 @@
     property="og:description"
     content="What is R? When will lockdown end? Get frequent updates about the
     COVID pandemic" />
-  <meta property="og:image" content="/banner.png" />
+  <meta property="og:image" content="https://whatisr.uk/banner.png" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
@@ -165,7 +171,7 @@
     property="twitter:description"
     content="What is R? When will lockdown end? Get frequent updates about the
     COVID pandemic" />
-  <meta property="twitter:image" content="/banner.png" />
+  <meta property="twitter:image" content="https://whatisr.uk/banner.png" />
 </svelte:head>
 <div class="page" id="home">
   <div />
