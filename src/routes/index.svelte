@@ -239,7 +239,7 @@
   <div class="content">
     <ul>
       <li>Follow the government guidelines</li>
-      <li>Enoucrage others to follow the guidelines</li>
+      <li>Encourage others to follow the guidelines</li>
       <li>Help vulnerable people in your community</li>
     </ul>
   </div>
